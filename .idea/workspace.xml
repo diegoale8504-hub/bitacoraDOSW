@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00baa68d-3170-46ce-bb02-b886cc706d20" name="Changes" comment="">
+    <list default="true" id="6c53933d-9e26-49cd-889c-5443743ebecf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/ejercicio1/EjercicioStreams1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/ejercicio2/ejercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/ejercicio3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/ejercicio3/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="39GFjR6hOcFqHPGoQ8DKtinTppi" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,12 +40,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EjercicioStreams1.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS3.ejercicio2.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS3.ejercicio3.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS3.ejercicio4.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS3.ejercicio5.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS3.ejercicio6.Main.executor": "Run",
+    "Application.ejercicio2.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -58,13 +64,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.edu.dosw.bitacoraS3.ejercicio6.Main">
-    <configuration name="edu.dosw.bitacoraS3.ejercicio2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS3.ejercicio2.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="EjercicioStreams1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS1.ejercicio1.EjercicioStreams1" />
       <module name="stellar-luminosity" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.dosw.bitacoraS3.ejercicio2.*" />
+          <option name="PATTERN" value="edu.dosw.bitacoraS1.ejercicio2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,25 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="edu.dosw.bitacoraS3.ejercicio3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS3.ejercicio3.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS1.ejercicio3.Main" />
       <module name="stellar-luminosity" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.dosw.bitacoraS3.ejercicio3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="edu.dosw.bitacoraS3.ejercicio4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS3.ejercicio4.Main" />
-      <module name="stellar-luminosity" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.dosw.bitacoraS3.ejercicio4.SmartGasStation" />
+          <option name="PATTERN" value="edu.dosw.bitacoraS1.ejercicio3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS1.ejercicio2.ejercicio2" />
+      <module name="stellar-luminosity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dosw.bitacoraS1.ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ejercicio2" />
+        <item itemvalue="Application.EjercicioStreams1" />
         <item itemvalue="Application.edu.dosw.bitacoraS3.ejercicio6.Main" />
         <item itemvalue="Application.edu.dosw.bitacoraS3.ejercicio5.Main" />
-        <item itemvalue="Application.edu.dosw.bitacoraS3.ejercicio4.Main" />
-        <item itemvalue="Application.edu.dosw.bitacoraS3.ejercicio3.Main" />
-        <item itemvalue="Application.edu.dosw.bitacoraS3.ejercicio2.Main" />
       </list>
     </recent_temporary>
   </component>
