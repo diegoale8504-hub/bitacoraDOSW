@@ -5,53 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00baa68d-3170-46ce-bb02-b886cc706d20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/BankTransfer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/BankTransferProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/CreditCardProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/PaymentProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/Paypal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/PaypalProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/ConsoleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/GameEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/PlayStationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/PlayStationFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/PlayStationGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/PlayStationUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/XboxControler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/XboxFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/XboxGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/XboxUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio3/ActionDollBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio3/ClassicToyDollBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio3/ToyDoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio3/ToyDollBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio3/ToyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/FastChargerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/FastElectricCharger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/FuelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/GasPump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/SlowChargerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/SlowElectricCharger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Azul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Cuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Forma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Rojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio6/Caja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio6/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio6/Producto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +149,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770314635177</updated>
-      <workItem from="1770314636358" duration="15592000" />
+      <workItem from="1770314636358" duration="17203000" />
     </task>
     <servers />
   </component>
