@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c53933d-9e26-49cd-889c-5443743ebecf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/EmailNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/EmailNotificationFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/MessageNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/MessageNotificationFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/Notification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/NotificationFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/PushNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/PushNotificationFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,34 +34,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.EjercicioStreams1.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.edu.dosw.bitacoraS2.Patrones.Ejercicio1CreacionalFactoryMethod.Main.executor": "Run",
-    "Application.edu.dosw.bitacoraS3.ejercicio2.Main.executor": "Run",
-    "Application.edu.dosw.bitacoraS3.ejercicio3.Main.executor": "Run",
-    "Application.edu.dosw.bitacoraS3.ejercicio4.Main.executor": "Run",
-    "Application.edu.dosw.bitacoraS3.ejercicio5.Main.executor": "Run",
-    "Application.edu.dosw.bitacoraS3.ejercicio6.Main.executor": "Run",
-    "Application.ejercicio2.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "develop",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/diego/OneDrive/Escritorio/Bitacora/bitacoraDOSW",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EjercicioStreams1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.edu.dosw.bitacoraS2.Patrones.Ejercicio1CreacionalFactoryMethod.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.edu.dosw.bitacoraS3.ejercicio2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.edu.dosw.bitacoraS3.ejercicio3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.edu.dosw.bitacoraS3.ejercicio4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.edu.dosw.bitacoraS3.ejercicio5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.edu.dosw.bitacoraS3.ejercicio6.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/OneDrive/Escritorio/Bitacora/bitacoraDOSW&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.edu.dosw.bitacoraS2.Patrones.Ejercicio1CreacionalFactoryMethod.Main">
     <configuration name="EjercicioStreams1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS1.ejercicio1.EjercicioStreams1" />
@@ -164,7 +154,9 @@
       <option name="presentableId" value="Default" />
       <updated>1770314635177</updated>
       <workItem from="1770314636358" duration="17203000" />
-      <workItem from="1770831551470" duration="929000" />
+      <workItem from="1770831551470" duration="1232000" />
+      <workItem from="1770832812155" duration="54000" />
+      <workItem from="1770919107543" duration="3865000" />
     </task>
     <servers />
   </component>
