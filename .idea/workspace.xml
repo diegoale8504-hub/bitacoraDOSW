@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c53933d-9e26-49cd-889c-5443743ebecf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Cal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Div.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Multi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Operacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Sus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio2EstructuralAdapter/DetailedPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio2EstructuralAdapter/DetailedPrinterAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio2EstructuralAdapter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio2EstructuralAdapter/MessagePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio2EstructuralAdapter/SimplePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio3ComprtamientoMemento/History.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio3ComprtamientoMemento/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio3ComprtamientoMemento/MementoText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio3ComprtamientoMemento/TextEditor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +165,7 @@
       <workItem from="1771008141333" duration="2060000" />
       <workItem from="1771012887695" duration="120000" />
       <workItem from="1771013018355" duration="17000" />
-      <workItem from="1771515078061" duration="3691000" />
+      <workItem from="1771515078061" duration="5784000" />
     </task>
     <servers />
   </component>
