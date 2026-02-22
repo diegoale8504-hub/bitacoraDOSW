@@ -34,3 +34,5 @@ No sabia bien como deberia de ser la paqueteria de los proyectos
 Ya sé como crear bien proyectos con Maven, entiendo como funciona y para qué es utilizado
 ### Me falta reforzar
 Me falta reforzar los requerimientos 
+
+## semana 5

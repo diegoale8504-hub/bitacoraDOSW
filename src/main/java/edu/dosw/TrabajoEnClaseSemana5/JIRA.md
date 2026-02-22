@@ -1,0 +1,1 @@
+https://diegoale8504.atlassian.net/jira/software/projects/AJIACO/boards/34?atlOrigin=eyJpIjoiNWU5ODY2NjY5N2IxNDI2YmIwM2YwYTMzYTJjOWQxODQiLCJwIjoiaiJ9
