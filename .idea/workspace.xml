@@ -5,7 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c53933d-9e26-49cd-889c-5443743ebecf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/AntiTorpedosDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/Barco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/BarcoBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/BarcoBaseDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/BlindajeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/MisilDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/RadarDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/AprobacionFinalControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/ControlAntecedentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/ControlMigratorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/ControlMigratorioHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/IngresoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/MotivoViajeControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/PasaporteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/ComandoCaminar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/GameCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/JumpCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +67,8 @@
     "Application.edu.dosw.bitacoraS3.ejercicio4.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS3.ejercicio5.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS3.ejercicio6.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS3.ejercicio7.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS3.ejercicio8.Main.executor": "Run",
     "Application.ejercicio2.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -53,7 +76,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/diego/OneDrive/Escritorio/Bitacora/bitacoraDOSW",
@@ -65,26 +88,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.edu.dosw.bitacoraS2.Patrones.Ejercicio4SolidCalculadora.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS1.ejercicio3.Main" />
+      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS3.ejercicio9.Main" />
       <module name="stellar-luminosity" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.dosw.bitacoraS1.ejercicio3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="edu.dosw.bitacoraS2.Patrones.Ejercicio1CreacionalFactoryMethod.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS2.Patrones.Ejercicio1CreacionalFactoryMethod.Main" />
-      <module name="stellar-luminosity" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.dosw.bitacoraS2.Patrones.Ejercicio1CreacionalFactoryMethod.*" />
+          <option name="PATTERN" value="edu.dosw.bitacoraS3.ejercicio9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +128,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS1.ejercicio2.ejercicio2" />
+    <configuration name="edu.dosw.bitacoraS3.ejercicio7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS3.ejercicio7.Main" />
       <module name="stellar-luminosity" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.dosw.bitacoraS1.ejercicio2.*" />
+          <option name="PATTERN" value="edu.dosw.bitacoraS3.ejercicio7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.dosw.bitacoraS3.ejercicio8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS3.ejercicio8.Main" />
+      <module name="stellar-luminosity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dosw.bitacoraS3.ejercicio8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.edu.dosw.bitacoraS3.ejercicio8.Main" />
+        <item itemvalue="Application.edu.dosw.bitacoraS3.ejercicio7.Main" />
         <item itemvalue="Application.edu.dosw.bitacoraS2.Patrones.Ejercicio4SolidCalculadora.Main" />
         <item itemvalue="Application.edu.dosw.bitacoraS2.Patrones.ejercicio3ComprtamientoMemento.Main" />
-        <item itemvalue="Application.edu.dosw.bitacoraS2.Patrones.Ejercicio1CreacionalFactoryMethod.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ejercicio2" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +189,7 @@
       <workItem from="1771013018355" duration="17000" />
       <workItem from="1771515078061" duration="5784000" />
       <workItem from="1771554570391" duration="23000" />
+      <workItem from="1772038622307" duration="3193000" />
     </task>
     <servers />
   </component>
