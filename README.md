@@ -122,4 +122,5 @@ cumplimiento aun mayor, separandolo por:
 - tareas: Lo que tenemos que hacer para cumolir con la historia de usuario.
 
 ### Qué me falta reforzar?
-Entender bien cómo se dividen y cómo se unen las tareas en Jira.
+Entender bien cómo se dividen y cómo se unen las tareas en Jira para
+poder asignar bien todo lo que es la dependencia de los trabajos.
