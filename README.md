@@ -3,20 +3,15 @@ Aqui se van a realizar los ejercicios que sean dejados en la clase de DOSW
 
 ## Semana 1 aprendizaje
 ### Qué entendía mal antes?
-*(Escribe aquí lo que pensabas antes sobre Streams y/o Git Flow.)*
-
+No sabia cómo usar bien los stream, mi conocimiento sobre estos era mas bien flojo. Pensé que solo eran para recorrer
+listas pero veo que tienen muchas mas funcionalidades: como los map, sorted entre otros.
 ### Qué entiendo ahora?
-*(Escribe aquí lo que comprendiste ahora: uso de streams, map/filter/reduce, etc.)*
-
+Podemos procesar las colecciones declarativamente. Ahora entiendo como encadenar operaciones, aplicar filtros, convertir
+tipo de una variable a otro tipo.
 ### Qué me falta reforzar?
-*(Escribe aquí lo que te falta mejorar: ejercicios extra, práctica con Git Flow, etc.)*
+Me falta mejorar todo el uso de estas metodologias ya que siento que es de lo mas importante para poder realizar proyectos.
 
-### Evidencia (carpetas/archivos)
-- `src/main/java/edu/dosw/bitacoraS1/ejercicio1`
-- `src/main/java/edu/dosw/bitacoraS1/ejercicio2`
-- `src/main/java/edu/dosw/bitacoraS1/ejercicio3`
-- *(Pendiente si aplica)* `src/main/java/edu/dosw/bitacoraS1/ejercicio4` (tarea)
-- *(Pendiente si aplica)* `src/main/java/edu/dosw/bitacoraS1/ejercicio5` (tarea)
+
 
 ---
 
@@ -35,11 +30,7 @@ Me falta saber bien como es el contexto de los problemas para saber exactamente 
 tambien deberia de empezar a mejor a al hora de ver si debo o no de usar mas de un patron en los problemas que se estan
 desarrolando.
 
-### Evidencia (carpetas/archivos)
-- `src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod`
-- `src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio2EstructuralAdapter`
-- `src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio3ComprtamientoMemento`
-- `src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora`
+
 
 ---
 
@@ -54,18 +45,52 @@ Como lo mencionaba antes, soy mejor sabiendo que patron elegir a la hora de real
 ### Me falta reforzar
 identificar los patrones a usar.
 
-### Evidencia (carpetas/archivos)
-- `src/main/java/edu/dosw/bitacoraS3/ejercicio1` *(Factory Method - Comercio electronico)*
-- `src/main/java/edu/dosw/bitacoraS3/ejercicio2` *(Abstract Factory - Empresa de Videojuegos)*
-- `src/main/java/edu/dosw/bitacoraS3/ejercicio3` *(Builder - Fabrica de juguetes)*
-- `src/main/java/edu/dosw/bitacoraS3/ejercicio4` *(Adapter - Gasolineria Inteligente)*
-- `src/main/java/edu/dosw/bitacoraS3/ejercicio5` *(Bridge - Figuras y Colores)*
-- `src/main/java/edu/dosw/bitacoraS3/ejercicio6` *(Composite - Bodega de productos)*
-- `src/main/java/edu/dosw/bitacoraS3/ejercicio7` *(Decorator - Simulador de batalla naval)*
-- `src/main/java/edu/dosw/bitacoraS3/ejercicio8` *(Chain of responsability - Embajada de estados unidos)*
-- `src/main/java/edu/dosw/bitacoraS3/ejercicio9` *(Command - Personajes de videojuegos)*
-- `src/main/java/edu/dosw/bitacoraS3/ejercicio10` *(Iterator - Viaje a roma (diagrama))*
-- `src/main/java/edu/dosw/bitacoraS3/ejercicio11` *(Strategy - Aplicacion de navegacion)*
+### Ejercicios (patrón usado y por qué se usa)
+**Nota:** El objetivo general fue desacoplar responsabilidades, facilitar extensiones y evitar código rígido o duplicado.
+
+- **Ejercicio 1 — Factory Method (Comercio electrónico)**  
+  **Descripción:** Permite crear objetos a través de un “método fábrica” sin depender de clases concretas.  
+  **Por qué se usa:** En un e-commerce se pueden tener distintos tipos de productos/órdenes/pagos; el Factory Method ayuda a **instanciar el tipo correcto** según el caso sin llenar el código de `if/else` o `new` repetidos.
+
+- **Ejercicio 2 — Abstract Factory (Videojuegos: Xbox / PlayStation)**  
+  **Descripción:** Provee una familia de objetos relacionados (por ejemplo controles, consola, juegos) sin especificar sus clases concretas.  
+  **Por qué se usa:** Porque Xbox y PlayStation son **familias completas** de objetos compatibles entre sí; Abstract Factory asegura que se creen objetos del mismo “ecosistema” sin mezclar componentes.
+
+- **Ejercicio 3 — Builder (Fábrica de juguetes)**  
+  **Descripción:** Construye objetos complejos paso a paso, separando el proceso de construcción de su representación final.  
+  **Por qué se usa:** Un juguete puede tener muchas piezas/opciones; Builder permite **armar configuraciones diferentes** (por ejemplo juguete básico/premium) sin tener constructores enormes ni combinaciones infinitas.
+
+- **Ejercicio 4 — Adapter (Gasolinería inteligente)**  
+  **Descripción:** Convierte la interfaz de una clase en otra interfaz que el cliente espera.  
+  **Por qué se usa:** Para integrar sistemas/dispositivos con interfaces distintas (sensores, bombas, APIs) sin cambiar el código existente; el Adapter permite **compatibilidad** entre componentes.
+
+- **Ejercicio 5 — Bridge (Figuras y Colores)**  
+  **Descripción:** Separa una abstracción de su implementación para que ambas puedan variar independientemente.  
+  **Por qué se usa:** Figuras (círculo, cuadrado) y colores (rojo, azul) cambian por separado; Bridge evita una explosión de clases como `CirculoRojo`, `CuadradoAzul`, etc.
+
+- **Ejercicio 6 — Composite (Bodega de productos)**  
+  **Descripción:** Trata objetos individuales y composiciones de objetos de manera uniforme (estructura en árbol).  
+  **Por qué se usa:** Una bodega puede tener cajas, paquetes y lotes; Composite permite **operar igual** sobre un producto simple o un conjunto (por ejemplo calcular total, listar contenido).
+
+- **Ejercicio 7 — Decorator (Simulador de batalla naval)**  
+  **Descripción:** Agrega responsabilidades/funcionalidades a un objeto dinámicamente envolviéndolo con “decoradores”.  
+  **Por qué se usa:** Un barco puede tener múltiples mejoras (blindaje, radar, misiles) combinables; Decorator permite **sumar capacidades en runtime** sin crear subclases para cada combinación.
+
+- **Ejercicio 8 — Chain of Responsibility (Control migratorio / Embajada)**  
+  **Descripción:** Pasa una solicitud por una cadena de handlers; cada handler decide si procesa o la pasa al siguiente.  
+  **Por qué se usa:** El ingreso requiere varios controles (pasaporte, antecedentes, motivo, aprobación); la cadena permite **validaciones en pasos** y detenerse al primer rechazo sin acoplar todo en una sola clase.
+
+- **Ejercicio 9 — Command (Personajes de videojuegos)**  
+  **Descripción:** Encapsula una acción como un objeto con un método `execute()`.  
+  **Por qué se usa:** El controlador del juego ejecuta acciones (caminar, saltar, atacar, defender) sin conocer detalles internos; Command permite **desacoplar** invocación y ejecución (y facilita colas/historial si se necesitara).
+
+- **Ejercicio 10 — Iterator (Viaje a Roma / diagrama)**  
+  **Descripción:** Permite recorrer una colección sin exponer su estructura interna.  
+  **Por qué se usa:** Para iterar lugares del itinerario de forma controlada; Iterator ayuda a **separar el recorrido** de la estructura de datos y permite varios recorridos si hiciera falta.
+
+- **Ejercicio 11 — Strategy (Aplicación de navegación)**  
+  **Descripción:** Define una familia de algoritmos y los encapsula para poder intercambiarlos en tiempo de ejecución.  
+  **Por qué se usa:** La app puede calcular rutas por “más rápida”, “más barata” o “panorámica”; Strategy permite **cambiar el algoritmo** sin modificar la clase principal de la aplicación.
 
 ---
 
@@ -79,28 +104,22 @@ Ya sé como crear bien proyectos con Maven, entiendo como funciona y para qué e
 ### Me falta reforzar
 Me falta reforzar los requerimientos
 
-### Evidencia (carpetas/archivos)
-- `src/main/java/edu/dosw/bitacoraS4/requerimientos/REQUERIMIENTOS.md`
-- `src/main/java/edu/dosw/bitacoraS4/requerimientos/img.png`
-- `src/main/java/edu/dosw/bitacoraS4/requerimientos/img_1.png`
-- `src/main/java/edu/dosw/bitacoraS4/requerimientos/img_2.png`
-- `src/main/java/edu/dosw/bitacoraS4/requerimientos/img_3.png`
-- `src/main/java/edu/dosw/bitacoraS4/TareaEmpresa/TareaEmpresa.md`
-- `src/main/java/edu/dosw/bitacoraS4/TareaEmpresa/img.png`
-- `src/main/java/edu/dosw/bitacoraS4/TareaEmpresa/img_1.png`
-- `src/main/java/edu/dosw/bitacoraS4/TareaEmpresa/img_2.png`
+
 
 ---
 
 ## Semana 5
 ### Qué entendía mal antes?
-*(Escribe aquí lo que pensabas antes sobre agilismo/JIRA.)*
+Pensaba que con solo tener en cuenta cuando se hacian las cosas ere suficiente para poder tener una oganizacion a
+la hora de hacer trabajos.
 
 ### Qué entiendo ahora?
-*(Escribe aquí lo que aprendiste: épicas, historias, sprints, tablero, etc.)*
+Ahora entiend que si hacemos una correcta division de lo que se tiene que hacer podemos tener una organizacion y
+cumplimiento aun mayor, separandolo por:
+- Epica: explicamos a gran escala lo que se quiere con el proyecto
+- Feature: Funcionalidades que se quieren tener en el proyecto
+- Historias de usuario: El como quiero para poder del proyecto, el cómo nos organizamos para poder hacer lo que planeamos
+- tareas: Lo que tenemos que hacer para cumolir con la historia de usuario.
 
 ### Qué me falta reforzar?
-*(Escribe aquí lo que te falta mejorar.)*
-
-### Evidencia (carpetas/archivos)
-- `src/main/java/edu/dosw/TrabajoEnClaseSemana5/JIRA.md`
+Entender bien cómo se dividen y cómo se unen las tareas en Jira.
