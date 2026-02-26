@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c53933d-9e26-49cd-889c-5443743ebecf" name="Changes" comment="" />
+    <list default="true" id="6c53933d-9e26-49cd-889c-5443743ebecf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio10/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/CheapestRoute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/FastestRoute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/NavigationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/RouteStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/ScenicRoute.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +47,7 @@
     "Application.edu.dosw.bitacoraS2.Patrones.Ejercicio1CreacionalFactoryMethod.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS2.Patrones.Ejercicio4SolidCalculadora.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS2.Patrones.ejercicio3ComprtamientoMemento.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS3.ejercicio11.Main.executor": "Debug",
     "Application.edu.dosw.bitacoraS3.ejercicio2.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS3.ejercicio3.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS3.ejercicio4.Main.executor": "Run",
@@ -65,7 +74,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.edu.dosw.bitacoraS3.ejercicio11.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS3.ejercicio9.Main" />
       <module name="stellar-luminosity" />
@@ -92,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="edu.dosw.bitacoraS2.Patrones.ejercicio3ComprtamientoMemento.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS2.Patrones.ejercicio3ComprtamientoMemento.Main" />
-      <module name="stellar-luminosity" />
+    <configuration name="edu.dosw.bitacoraS3.ejercicio11.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS3.ejercicio11.Main" />
+      <module name="Bitacora-DOSW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.dosw.bitacoraS2.Patrones.ejercicio3ComprtamientoMemento.*" />
+          <option name="PATTERN" value="edu.dosw.bitacoraS3.ejercicio11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,13 +140,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.edu.dosw.bitacoraS3.ejercicio11.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.edu.dosw.bitacoraS3.ejercicio8.Main" />
         <item itemvalue="Application.edu.dosw.bitacoraS3.ejercicio7.Main" />
         <item itemvalue="Application.edu.dosw.bitacoraS2.Patrones.Ejercicio4SolidCalculadora.Main" />
-        <item itemvalue="Application.edu.dosw.bitacoraS2.Patrones.ejercicio3ComprtamientoMemento.Main" />
       </list>
     </recent_temporary>
   </component>
