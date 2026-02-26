@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c53933d-9e26-49cd-889c-5443743ebecf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/AntiTorpedosDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/Barco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/BarcoBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/BarcoBaseDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/BlindajeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/MisilDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/RadarDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/AprobacionFinalControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/ControlAntecedentes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/ControlMigratorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/ControlMigratorioHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/IngresoRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/MotivoViajeControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/PasaporteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/ComandoCaminar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/GameCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/JumpCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6c53933d-9e26-49cd-889c-5443743ebecf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +166,7 @@
       <workItem from="1771013018355" duration="17000" />
       <workItem from="1771515078061" duration="5784000" />
       <workItem from="1771554570391" duration="23000" />
-      <workItem from="1772038622307" duration="3193000" />
+      <workItem from="1772038622307" duration="3756000" />
     </task>
     <servers />
   </component>
