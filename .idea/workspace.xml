@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c53933d-9e26-49cd-889c-5443743ebecf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio10/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/CheapestRoute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/FastestRoute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/NavigationApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/RouteStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/ScenicRoute.java" afterDir="false" />
-    </list>
+    <list default="true" id="6c53933d-9e26-49cd-889c-5443743ebecf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +39,7 @@
     "Application.edu.dosw.bitacoraS2.Patrones.Ejercicio1CreacionalFactoryMethod.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS2.Patrones.Ejercicio4SolidCalculadora.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS2.Patrones.ejercicio3ComprtamientoMemento.Main.executor": "Run",
-    "Application.edu.dosw.bitacoraS3.ejercicio11.Main.executor": "Debug",
+    "Application.edu.dosw.bitacoraS3.ejercicio11.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS3.ejercicio2.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS3.ejercicio3.Main.executor": "Run",
     "Application.edu.dosw.bitacoraS3.ejercicio4.Main.executor": "Run",
