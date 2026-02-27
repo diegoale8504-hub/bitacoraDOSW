@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c53933d-9e26-49cd-889c-5443743ebecf" name="Changes" comment="" />
+    <list default="true" id="6c53933d-9e26-49cd-889c-5443743ebecf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SemanaASemana.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,7 +182,7 @@
       <workItem from="1771554570391" duration="23000" />
       <workItem from="1772038622307" duration="3756000" />
       <workItem from="1772124491040" duration="4626000" />
-      <workItem from="1772210464506" duration="389000" />
+      <workItem from="1772210464506" duration="2153000" />
     </task>
     <servers />
   </component>
