@@ -93,16 +93,7 @@ public class AnalyticsService {
                 }));
     }
 
-    // ─────────────────────────────────────────────────────────────────────────────
-    // Ejercicio 9: Obtener la materia con más reprobaciones
-    // ─────────────────────────────────────────────────────────────────────────────
-
-    /**
-     * Encuentra la materia que acumula más reprobaciones (passed=false) en todo el sistema.
-     *
-     * @param students lista total de estudiantes
-     * @return Optional con el nombre de la materia con más reprobaciones
-     */
+    // 9
     public Optional<String> getSubjectWithMostFailures(List<Student> students) {
         return students.stream()
                 .flatMap(student -> student.getGrades().stream())
@@ -113,23 +104,7 @@ public class AnalyticsService {
                 .map(Map.Entry::getKey);
     }
 
-    // ─────────────────────────────────────────────────────────────────────────────
-    // Ejercicio 10: Pipeline complejo sobre equipo AZUL
-    // ─────────────────────────────────────────────────────────────────────────────
-
-    /**
-     * Pipeline funcional completo:
-     * 1. Toma solo estudiantes del equipo AZUL
-     * 2. Obtiene todas sus notas
-     * 3. Filtra solo notas aprobadas (passed=true)
-     * 4. Agrupa por materia
-     * 5. Calcula promedio por materia
-     * 6. Ordena descendente por promedio
-     * 7. Retorna LinkedHashMap preservando el orden
-     *
-     * @param students lista total de estudiantes
-     * @return LinkedHashMap con materia → promedio de notas aprobadas, ordenado descendente
-     */
+    // 10
     public LinkedHashMap<String, Double> getBlueTeamPassedGradesAverageBySubject(List<Student> students) {
         return students.stream()
                 .filter(student -> "AZUL".equals(student.getTeam()))

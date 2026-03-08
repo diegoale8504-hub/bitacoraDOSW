@@ -65,6 +65,11 @@
                             <rules>
                                 <rule>
                                     <element>BUNDLE</element>
+
+                                    <includes>
+                                        <include>edu/dosw/corte2/semana1/**</include>
+                                    </includes>
+
                                     <limits>
                                         <limit>
                                             <counter>LINE</counter>
