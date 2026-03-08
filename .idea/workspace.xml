@@ -5,9 +5,175 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c53933d-9e26-49cd-889c-5443743ebecf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SemanaASemana.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio1CreacionalFactoryMethod/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte2/jira/Jira.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte2/semana1/AcademicStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte2/semana1/AnalyticsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte2/semana1/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte2/semana1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SemanaASemana.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/SemanaASemana.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/JIRA.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/JIRA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_12.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_13.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_14.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_15.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_17.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_18.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_19.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_20.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_21.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_22.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_23.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_24.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_25.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_26.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_27.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_28.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_29.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_30.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_31.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_32.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_33.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/TrabajoEnClaseSemana5/img_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/TrabajoEnClaseSemana5/img_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/ejercicio1/EjercicioStreams1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS1/ejercicio1/EjercicioStreams1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/ejercicio2/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS1/ejercicio2/ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/ejercicio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS1/ejercicio3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS1/ejercicio3/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS1/ejercicio3/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/EmailNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio1CreacionalFactoryMethod/EmailNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/EmailNotificationFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio1CreacionalFactoryMethod/EmailNotificationFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio1CreacionalFactoryMethod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/MessageNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio1CreacionalFactoryMethod/MessageNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/MessageNotificationFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio1CreacionalFactoryMethod/MessageNotificationFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/Notification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/NotificationFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio1CreacionalFactoryMethod/NotificationFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/PushNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio1CreacionalFactoryMethod/PushNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio1CreacionalFactoryMethod/PushNotificationFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio1CreacionalFactoryMethod/PushNotificationFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Cal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio4SolidCalculadora/Cal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Div.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio4SolidCalculadora/Div.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio4SolidCalculadora/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Multi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio4SolidCalculadora/Multi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Operacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio4SolidCalculadora/Operacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio4SolidCalculadora/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/Ejercicio4SolidCalculadora/Sus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/Ejercicio4SolidCalculadora/Sus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio2EstructuralAdapter/DetailedPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/ejercicio2EstructuralAdapter/DetailedPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio2EstructuralAdapter/DetailedPrinterAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/ejercicio2EstructuralAdapter/DetailedPrinterAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio2EstructuralAdapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/ejercicio2EstructuralAdapter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio2EstructuralAdapter/MessagePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/ejercicio2EstructuralAdapter/MessagePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio2EstructuralAdapter/SimplePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/ejercicio2EstructuralAdapter/SimplePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio3ComprtamientoMemento/History.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/ejercicio3ComprtamientoMemento/History.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio3ComprtamientoMemento/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/ejercicio3ComprtamientoMemento/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio3ComprtamientoMemento/MementoText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/ejercicio3ComprtamientoMemento/MementoText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS2/Patrones/ejercicio3ComprtamientoMemento/TextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/Patrones/ejercicio3ComprtamientoMemento/TextEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/BankTransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio1/BankTransfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/BankTransferProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio1/BankTransferProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio1/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/CreditCardProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio1/CreditCardProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio1/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/PaymentProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio1/PaymentProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/Paypal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio1/Paypal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio1/PaypalProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio1/PaypalProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio10/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio10/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/CheapestRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio11/CheapestRoute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/FastestRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio11/FastestRoute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/NavigationApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio11/NavigationApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/RouteStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio11/RouteStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio11/ScenicRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio11/ScenicRoute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/ConsoleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/ConsoleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/GameEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/GameEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/PlayStationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/PlayStationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/PlayStationFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/PlayStationFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/PlayStationGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/PlayStationGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/PlayStationUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/PlayStationUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/XboxControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/XboxControler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/XboxFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/XboxFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/XboxGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/XboxGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio2/XboxUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio2/XboxUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio3/ActionDollBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio3/ActionDollBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio3/ClassicToyDollBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio3/ClassicToyDollBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio3/ToyDoll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio3/ToyDoll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio3/ToyDollBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio3/ToyDollBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio3/ToyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio3/ToyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/FastChargerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio4/FastChargerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/FastElectricCharger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio4/FastElectricCharger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/FuelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio4/FuelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/GasPump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio4/GasPump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/SlowChargerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio4/SlowChargerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio4/SlowElectricCharger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio4/SlowElectricCharger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Azul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio5/Azul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio5/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio5/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Cuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio5/Cuadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio5/Forma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio5/Rojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio5/Rojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio6/Caja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio6/Caja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio6/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio6/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio6/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio6/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/AntiTorpedosDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio7/AntiTorpedosDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/Barco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio7/Barco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/BarcoBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio7/BarcoBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/BarcoBaseDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio7/BarcoBaseDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/BlindajeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio7/BlindajeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/MisilDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio7/MisilDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio7/RadarDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio7/RadarDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/AprobacionFinalControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio8/AprobacionFinalControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/ControlAntecedentes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio8/ControlAntecedentes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/ControlMigratorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio8/ControlMigratorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/ControlMigratorioHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio8/ControlMigratorioHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/IngresoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio8/IngresoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/MotivoViajeControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio8/MotivoViajeControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio8/PasaporteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio8/PasaporteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/AttackCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio9/AttackCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/ComandoCaminar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio9/ComandoCaminar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio9/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/DefendComand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio9/DefendComand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/GameCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio9/GameCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio9/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/JumpCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio9/JumpCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS3/ejercicio9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS3/ejercicio9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS4/TareaEmpresa/TareaEmpresa.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS4/TareaEmpresa/TareaEmpresa.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS4/TareaEmpresa/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS4/TareaEmpresa/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS4/TareaEmpresa/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS4/TareaEmpresa/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS4/TareaEmpresa/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS4/TareaEmpresa/img_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS4/Uber/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS4/Uber/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS4/requerimientos/REQUERIMIENTOS.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS4/requerimientos/REQUERIMIENTOS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS4/requerimientos/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS4/requerimientos/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS4/requerimientos/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS4/requerimientos/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS4/requerimientos/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS4/requerimientos/img_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/bitacoraS4/requerimientos/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/dosw/corte1/bitacoraS4/requerimientos/img_3.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,47 +202,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.EjercicioStreams1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.edu.dosw.bitacoraS2.Patrones.Ejercicio1CreacionalFactoryMethod.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.edu.dosw.bitacoraS2.Patrones.Ejercicio4SolidCalculadora.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.edu.dosw.bitacoraS2.Patrones.ejercicio3ComprtamientoMemento.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.edu.dosw.bitacoraS3.ejercicio11.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.edu.dosw.bitacoraS3.ejercicio2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.edu.dosw.bitacoraS3.ejercicio3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.edu.dosw.bitacoraS3.ejercicio4.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.edu.dosw.bitacoraS3.ejercicio5.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.edu.dosw.bitacoraS3.ejercicio6.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.edu.dosw.bitacoraS3.ejercicio7.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.edu.dosw.bitacoraS3.ejercicio8.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ejercicio2.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/OneDrive/Escritorio/Bitacora/bitacoraDOSW&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EjercicioStreams1.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS2.Patrones.Ejercicio1CreacionalFactoryMethod.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS2.Patrones.Ejercicio4SolidCalculadora.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS2.Patrones.ejercicio3ComprtamientoMemento.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS3.ejercicio11.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS3.ejercicio2.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS3.ejercicio3.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS3.ejercicio4.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS3.ejercicio5.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS3.ejercicio6.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS3.ejercicio7.Main.executor": "Run",
+    "Application.edu.dosw.bitacoraS3.ejercicio8.Main.executor": "Run",
+    "Application.ejercicio2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "featureCorte2/ejercicio1",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/diego/OneDrive/Escritorio/Bitacora/bitacoraDOSW",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.edu.dosw.bitacoraS3.ejercicio11.Main">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\OneDrive\Escritorio\Bitacora\bitacoraDOSW" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\OneDrive\Escritorio\Bitacora\bitacoraDOSW\src" />
+      <recent name="C:\Users\diego\OneDrive\Escritorio\Bitacora\bitacoraDOSW\src\main\java\edu\dosw\corte1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.edu.dosw.corte1.bitacoraS3.ejercicio11.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS3.ejercicio9.Main" />
       <module name="stellar-luminosity" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.dosw.bitacoraS3.ejercicio9.*" />
+          <option name="PATTERN" value="edu.dosw.corte1.bitacoraS3.ejercicio9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,20 +264,7 @@
       <module name="stellar-luminosity" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.dosw.bitacoraS2.Patrones.Ejercicio4SolidCalculadora.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="edu.dosw.bitacoraS3.ejercicio11.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.dosw.bitacoraS3.ejercicio11.Main" />
-      <module name="Bitacora-DOSW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.dosw.bitacoraS3.ejercicio11.*" />
+          <option name="PATTERN" value="edu.dosw.corte1.Patrones.Ejercicio4SolidCalculadora.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,7 +277,7 @@
       <module name="stellar-luminosity" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.dosw.bitacoraS3.ejercicio7.*" />
+          <option name="PATTERN" value="edu.dosw.corte1.bitacoraS3.ejercicio7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,7 +290,20 @@
       <module name="stellar-luminosity" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.dosw.bitacoraS3.ejercicio8.*" />
+          <option name="PATTERN" value="edu.dosw.corte1.bitacoraS3.ejercicio8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.dosw.corte1.bitacoraS3.ejercicio11.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dosw.corte1.bitacoraS3.ejercicio11.Main" />
+      <module name="Bitacora-DOSW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dosw.corte1.bitacoraS3.ejercicio11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,7 +322,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.edu.dosw.bitacoraS3.ejercicio11.Main" />
+        <item itemvalue="Application.edu.dosw.corte1.bitacoraS3.ejercicio11.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.edu.dosw.bitacoraS3.ejercicio8.Main" />
         <item itemvalue="Application.edu.dosw.bitacoraS3.ejercicio7.Main" />
@@ -182,7 +357,9 @@
       <workItem from="1771554570391" duration="23000" />
       <workItem from="1772038622307" duration="3756000" />
       <workItem from="1772124491040" duration="4626000" />
-      <workItem from="1772210464506" duration="2153000" />
+      <workItem from="1772210464506" duration="2529000" />
+      <workItem from="1772826444864" duration="1670000" />
+      <workItem from="1772913800638" duration="6069000" />
     </task>
     <servers />
   </component>

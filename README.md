@@ -9,7 +9,7 @@ listas pero veo que tienen muchas mas funcionalidades: como los map, sorted entr
 Podemos procesar las colecciones declarativamente. Ahora entiendo como encadenar operaciones, aplicar filtros, convertir
 tipo de una variable a otro tipo.
 ### Qué me falta reforzar?
-Me falta mejorar todo el uso de estas metodologias ya que siento que es de lo mas importante para poder realizar proyectos.
+Mse falta mejorar todo el uso de estas metodologias ya que siento que es de lo mas importante para poder realizar proyectos.
 
 
 

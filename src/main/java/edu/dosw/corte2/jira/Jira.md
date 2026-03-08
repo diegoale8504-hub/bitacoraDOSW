@@ -1,0 +1,2 @@
+Para poder ver el jira ir al siguiente sitio:
+- **Jira**: https://diegoale8504.atlassian.net/jira/software/projects/ODT/boards/199/timeline?selectedIssue=ODT-26&atlOrigin=eyJpIjoiNzM5ZTI0ZDUzNWI2NGIzNjlmNjU0YjdkM2ZiODNiZDQiLCJwIjoiaiJ9
