@@ -1,5 +1,8 @@
 package edu.dosw.corte2.semana2;
 
+import edu.dosw.corte2.semana2.parte1.EmailNotification;
+import edu.dosw.corte2.semana2.parte1.NotificationService;
+import edu.dosw.corte2.semana2.parte1.SMSNotification;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;

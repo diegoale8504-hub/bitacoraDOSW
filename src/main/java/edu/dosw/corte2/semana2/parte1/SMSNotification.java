@@ -1,8 +1,4 @@
-package edu.dosw.corte2.semana2;
-
-import javax.management.Notification;
-import javax.management.NotificationFilter;
-import java.awt.*;
+package edu.dosw.corte2.semana2.parte1;
 
 public class SMSNotification implements NotificationStrategy {
 

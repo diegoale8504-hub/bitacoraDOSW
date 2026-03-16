@@ -1,4 +1,4 @@
-package edu.dosw.corte2.semana2;
+package edu.dosw.corte2.semana2.parte1;
 
 public class PushNotification implements NotificationStrategy {
 
