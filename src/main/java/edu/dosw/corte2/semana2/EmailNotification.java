@@ -1,0 +1,9 @@
+package edu.dosw.corte2.semana2;
+
+public class EmailNotification implements NotificationStrategy {
+
+    @Override
+    public void sendNotification(String message) {
+        System.out.println("Enviando EMAIL: " + message);
+    }
+}
